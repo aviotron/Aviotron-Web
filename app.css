@@ -11,7 +11,7 @@ object{
 }
 
 /* If the screen size is 600px or less, set the font-size of <div> to 30px */
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 320px) {
  .small{
     display: block;
     }
