@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 375 812">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-resume-small);
+      }
+
+      .cls-2, .cls-3 {
+        fill: #707070;
+      }
+
+      .cls-2 {
+        font-size: 24px;
+        font-family: GoogleSans-Bold, Google Sans;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        font-size: 14px;
+        font-family: GoogleSans-Regular, Google Sans;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-resume-small">
+      <rect width="375" height="812"/>
+    </clipPath>
+  </defs>
+  <g id="resume-small" class="cls-1">
+    <rect class="cls-4" width="375" height="812"/>
+    <text id="Avinash_Sharma" data-name="Avinash Sharma" class="cls-2" transform="translate(96 71)"><tspan x="0" y="0">Avinash Sharma</tspan></text>
+    <text id="User_Experience_Designer._Knows_Code._Animation_Enthusiast" data-name="User Experience Designer. Knows Code. Animation Enthusiast" class="cls-3" transform="translate(45 89)"><tspan x="0" y="13">User Experience Designer. Knows Code. </tspan><tspan x="0" y="30">Animation Enthusiast</tspan></text>
+  </g>
+</svg>
