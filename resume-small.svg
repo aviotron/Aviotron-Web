@@ -1,36 +1,90 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 375 812">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 375 1152">
   <defs>
     <style>
       .cls-1 {
         clip-path: url(#clip-resume-small);
       }
 
-      .cls-2, .cls-3 {
-        fill: #707070;
-      }
-
       .cls-2 {
-        font-size: 24px;
-        font-family: GoogleSans-Bold, Google Sans;
-        font-weight: 700;
+        font-size: 30px;
       }
 
-      .cls-3 {
-        font-size: 14px;
+      .cls-2, .cls-3, .cls-4 {
         font-family: GoogleSans-Regular, Google Sans;
       }
 
+      .cls-3, .cls-5 {
+        font-size: 14px;
+      }
+
       .cls-4 {
+        font-size: 16px;
+      }
+
+      .cls-5 {
+        font-family: GoogleSans-Medium, Google Sans;
+        font-weight: 500;
+      }
+
+      .cls-6 {
+        font-family: GoogleSans-Italic, Google Sans;
+        font-weight: 400;
+        font-style: italic;
+      }
+
+      .cls-7 {
+        font-family: SegoeUI-Semibold, Segoe UI;
+        font-weight: 600;
+      }
+
+      .cls-8 {
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-9 {
         fill: #fff;
       }
     </style>
     <clipPath id="clip-resume-small">
-      <rect width="375" height="812"/>
+      <rect width="375" height="1152"/>
     </clipPath>
   </defs>
   <g id="resume-small" class="cls-1">
-    <rect class="cls-4" width="375" height="812"/>
-    <text id="Avinash_Sharma" data-name="Avinash Sharma" class="cls-2" transform="translate(96 71)"><tspan x="0" y="0">Avinash Sharma</tspan></text>
-    <text id="User_Experience_Designer._Knows_Code._Animation_Enthusiast" data-name="User Experience Designer. Knows Code. Animation Enthusiast" class="cls-3" transform="translate(45 89)"><tspan x="0" y="13">User Experience Designer. Knows Code. </tspan><tspan x="0" y="30">Animation Enthusiast</tspan></text>
+    <rect class="cls-9" width="375" height="1152"/>
+    <text id="Avinash_Sharma" data-name="Avinash Sharma" class="cls-2" transform="translate(36 72)"><tspan x="0" y="0">Avinash Sharma</tspan></text>
+    <text id="UXer.Knows_Code.Animation_Enthusiast." data-name="UXer.Knows Code.Animation Enthusiast." class="cls-3" transform="translate(36 81)"><tspan x="0" y="13">UXer.Knows Code.Animation Enthusiast.</tspan></text>
+    <text id="avio.sharma_gmail.com" data-name="avio.sharma@gmail.com" class="cls-3" transform="translate(36 136)"><tspan x="0" y="0">avio.sharma@gmail.com</tspan></text>
+    <text id="_91-9910066488" data-name="+91-9910066488" class="cls-3" transform="translate(32 153)"><tspan x="0" y="0">+91-9910066488</tspan></text>
+    <text id="Education" class="cls-4" transform="translate(34 216)"><tspan x="0" y="0">Education</tspan></text>
+    <text id="Experience" class="cls-4" transform="translate(34 494)"><tspan x="0" y="0">Experience</tspan></text>
+    <text id="Skills" class="cls-4" transform="translate(34 876)"><tspan x="0" y="0">Skills</tspan></text>
+    <text id="B.Tech_Electricals_Electronics_GGSIPU_Delhi_2009-2013_" data-name="B.Tech, Electricals &amp; Electronics GGSIPU,Delhi
+2009-2013
+" class="cls-5" transform="translate(36 281)"><tspan x="0" y="13">B.Tech, Electricals &amp; Electronics GGSIPU,Delhi</tspan><tspan class="cls-6"><tspan x="0" y="30">2009-2013</tspan></tspan></text>
+    <text id="Class_X_C.B.S.E_Delhi_2007_" data-name="Class X, C.B.S.E, Delhi
+2007
+" class="cls-5" transform="translate(36 339.5)"><tspan x="0" y="13">Class X, C.B.S.E, Delhi</tspan><tspan class="cls-6"><tspan x="0" y="30">2007</tspan></tspan></text>
+    <text id="M.Des_IIT_Guwahati_2016-2018" data-name="M.Des, IIT Guwahati
+2016-2018" class="cls-5" transform="translate(36 225)"><tspan x="0" y="13">M.Des, IIT Guwahati</tspan><tspan class="cls-6"><tspan x="0" y="30">2016-2018</tspan></tspan></text>
+    <text id="Class_XII_Science_C.B.S.E_Delhi_2009_" data-name="Class XII, Science C.B.S.E, Delhi
+2009
+" class="cls-5" transform="translate(36 394)"><tspan x="0" y="13">Class XII, Science C.B.S.E, Delhi</tspan><tspan class="cls-6"><tspan x="0" y="30">2009</tspan></tspan></text>
+    <text id="User_Experience_Designer_Internship_at_Nutanix_Bangaluru_May_17_Jul_17" data-name="User Experience Designer | Internship at 
+Nutanix, Bangaluru
+May ’17 –Jul ‘17" class="cls-5" transform="translate(36 590)"><tspan x="0" y="0">User Experience Designer | Internship at </tspan><tspan x="0" y="17">Nutanix, Bangaluru</tspan><tspan class="cls-6"><tspan x="0" y="34">May ’17 –Jul ‘17</tspan></tspan></text>
+    <text id="Android_Developer_Paper_ite_May_16_Aug_16" data-name="Android Developer | Paperﬂite
+May ’16 –Aug ‘16" class="cls-5" transform="translate(36 665)"><tspan x="0" y="0">Android Developer | Paper</tspan><tspan class="cls-7" y="0">ﬂ</tspan><tspan y="0">ite</tspan><tspan class="cls-6"><tspan x="0" y="17">May ’16 –Aug ‘16</tspan></tspan></text>
+    <text id="Designer_Developer_Cognizant_Bangaluru_May_14_-_May_16" data-name="Designer Developer | Cognizant, Bangaluru
+May ’14 - May ‘16" class="cls-5" transform="translate(36.5 721)"><tspan x="0" y="0">Designer Developer | Cognizant, Bangaluru</tspan><tspan class="cls-6"><tspan x="0" y="17">May ’14 - May ‘16</tspan></tspan></text>
+    <text id="Indie_App_Developer_Designer_Avion_Labs_Google_play_store_Dec_14_-_Present_" data-name="Indie App Developer Designer | Avion Labs, Google play store
+Dec’ 14 - Present " class="cls-5" transform="translate(38 777)"><tspan x="0" y="0">Indie App Developer Designer | Avion Labs, </tspan><tspan x="0" y="17">Google play store</tspan><tspan class="cls-6"><tspan x="0" y="34">Dec’ 14 - Present </tspan></tspan></text>
+    <text id="Senior_User_Experience_Designer_Publicis.Sapient_Gurgaon_Jul_18_Present" data-name="Senior User Experience Designer | 
+Publicis.Sapient, Gurgaon
+Jul ’18 –Present" class="cls-5" transform="translate(36 517)"><tspan x="0" y="0">Senior User Experience Designer | </tspan><tspan x="0" y="17">Publicis.Sapient, Gurgaon</tspan><tspan class="cls-6"><tspan x="0" y="34">Jul ’18 –Present</tspan></tspan></text>
+    <text id="Design_:_Sketching_Brainstorming_Concept_generation_Wireframing_Information_Architecture_Scenario_Building_Low_and_high_delity_prototyping._Software_:_Sketch_Figma_XD_Axure_RP_Illustrator_Photoshop_After_Effects_Programming_:_Java_HTML_CS" data-name="Design :  Sketching, Brainstorming, Concept generation, Wireframing, Information Architecture, Scenario Building, Low and high ﬁdelity prototyping.
+
+Software : Sketch, Figma, XD, Axure RP, Illustrator, Photoshop, After Effects
+
+Programming : Java, HTML, CS" class="cls-3" transform="translate(36 890)"><tspan x="0" y="13" xml:space="preserve">Design :  Sketching, Brainstorming, Concept </tspan><tspan x="0" y="30">generation, Wireframing, Information </tspan><tspan x="0" y="47">Architecture, Scenario Building, Low and high </tspan><tspan class="cls-8" x="0" y="66">ﬁ</tspan><tspan y="66">delity prototyping.</tspan><tspan x="0" y="83"></tspan><tspan x="0" y="100">Software : Sketch, Figma, XD, Axure RP, </tspan><tspan x="0" y="117">Illustrator, Photoshop, After Effects</tspan><tspan x="0" y="134"></tspan><tspan x="0" y="151">Programming : Java, HTML, CSS, JavaScript, </tspan><tspan x="0" y="168">Basic of Spring, Hibernate, C, C++ </tspan><tspan x="0" y="185">Project Skills : Agile Methodology</tspan><tspan x="0" y="202"></tspan></text>
   </g>
 </svg>
