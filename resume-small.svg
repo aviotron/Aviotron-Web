@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 375 1152">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 375 1967">
   <defs>
     <style>
       .cls-1 {
@@ -6,85 +6,119 @@
       }
 
       .cls-2 {
-        font-size: 30px;
+        font-size: 32px;
       }
 
-      .cls-2, .cls-3, .cls-4 {
+      .cls-2, .cls-3, .cls-8 {
         font-family: GoogleSans-Regular, Google Sans;
       }
 
-      .cls-3, .cls-5 {
+      .cls-11, .cls-3, .cls-5, .cls-7 {
         font-size: 14px;
       }
 
       .cls-4 {
-        font-size: 16px;
+        font-size: 18px;
+        font-family: GoogleSans-Bold, Google Sans;
+        font-weight: 700;
+        letter-spacing: 0.02em;
       }
 
-      .cls-5 {
+      .cls-11, .cls-5, .cls-7 {
         font-family: GoogleSans-Medium, Google Sans;
         font-weight: 500;
       }
 
       .cls-6 {
         font-family: GoogleSans-Italic, Google Sans;
-        font-weight: 400;
         font-style: italic;
       }
 
+      .cls-6, .cls-8, .cls-9 {
+        font-weight: 400;
+      }
+
       .cls-7 {
-        font-family: SegoeUI-Semibold, Segoe UI;
-        font-weight: 600;
+        fill: #202223;
       }
 
       .cls-8 {
+        font-size: 12px;
+      }
+
+      .cls-10, .cls-9 {
         font-family: SegoeUI, Segoe UI;
       }
 
-      .cls-9 {
+      .cls-12 {
         fill: #fff;
       }
     </style>
     <clipPath id="clip-resume-small">
-      <rect width="375" height="1152"/>
+      <rect width="375" height="1967"/>
     </clipPath>
   </defs>
   <g id="resume-small" class="cls-1">
-    <rect class="cls-9" width="375" height="1152"/>
+    <rect class="cls-12" width="375" height="1967"/>
     <text id="Avinash_Sharma" data-name="Avinash Sharma" class="cls-2" transform="translate(36 72)"><tspan x="0" y="0">Avinash Sharma</tspan></text>
-    <text id="UXer.Knows_Code.Animation_Enthusiast." data-name="UXer.Knows Code.Animation Enthusiast." class="cls-3" transform="translate(36 81)"><tspan x="0" y="13">UXer.Knows Code.Animation Enthusiast.</tspan></text>
+    <text id="UXer._Coder._Animator" data-name="UXer. Coder. Animator" class="cls-3" transform="translate(36 81)"><tspan x="0" y="13">UXer. Coder. Animator</tspan></text>
     <text id="avio.sharma_gmail.com" data-name="avio.sharma@gmail.com" class="cls-3" transform="translate(36 136)"><tspan x="0" y="0">avio.sharma@gmail.com</tspan></text>
-    <text id="_91-9910066488" data-name="+91-9910066488" class="cls-3" transform="translate(32 153)"><tspan x="0" y="0">+91-9910066488</tspan></text>
-    <text id="Education" class="cls-4" transform="translate(34 216)"><tspan x="0" y="0">Education</tspan></text>
-    <text id="Experience" class="cls-4" transform="translate(34 494)"><tspan x="0" y="0">Experience</tspan></text>
-    <text id="Skills" class="cls-4" transform="translate(34 876)"><tspan x="0" y="0">Skills</tspan></text>
+    <text id="_91-9910066488" data-name="+91-9910066488" class="cls-3" transform="translate(36 153)"><tspan x="0" y="0">+91-9910066488</tspan></text>
+    <text id="Education" class="cls-4" transform="translate(188 226)"><tspan x="-44.775" y="0">Education</tspan></text>
+    <text id="Experience" class="cls-4" transform="translate(189 535)"><tspan x="-49.968" y="0">Experience</tspan></text>
+    <text id="Projects" class="cls-4" transform="translate(188 1094)"><tspan x="-37.089" y="0">Projects</tspan></text>
     <text id="B.Tech_Electricals_Electronics_GGSIPU_Delhi_2009-2013_" data-name="B.Tech, Electricals &amp; Electronics GGSIPU,Delhi
 2009-2013
-" class="cls-5" transform="translate(36 281)"><tspan x="0" y="13">B.Tech, Electricals &amp; Electronics GGSIPU,Delhi</tspan><tspan class="cls-6"><tspan x="0" y="30">2009-2013</tspan></tspan></text>
+" class="cls-5" transform="translate(36 311)"><tspan x="0" y="13">B.Tech, Electricals &amp; Electronics GGSIPU,Delhi</tspan><tspan class="cls-6"><tspan x="0" y="30">2009-2013</tspan></tspan></text>
     <text id="Class_X_C.B.S.E_Delhi_2007_" data-name="Class X, C.B.S.E, Delhi
 2007
-" class="cls-5" transform="translate(36 339.5)"><tspan x="0" y="13">Class X, C.B.S.E, Delhi</tspan><tspan class="cls-6"><tspan x="0" y="30">2007</tspan></tspan></text>
+" class="cls-5" transform="translate(36 369.5)"><tspan x="0" y="13">Class X, C.B.S.E, Delhi</tspan><tspan class="cls-6"><tspan x="0" y="30">2007</tspan></tspan></text>
     <text id="M.Des_IIT_Guwahati_2016-2018" data-name="M.Des, IIT Guwahati
-2016-2018" class="cls-5" transform="translate(36 225)"><tspan x="0" y="13">M.Des, IIT Guwahati</tspan><tspan class="cls-6"><tspan x="0" y="30">2016-2018</tspan></tspan></text>
+2016-2018" class="cls-5" transform="translate(36 255)"><tspan x="0" y="13">M.Des, IIT Guwahati</tspan><tspan class="cls-6"><tspan x="0" y="30">2016-2018</tspan></tspan></text>
     <text id="Class_XII_Science_C.B.S.E_Delhi_2009_" data-name="Class XII, Science C.B.S.E, Delhi
 2009
-" class="cls-5" transform="translate(36 394)"><tspan x="0" y="13">Class XII, Science C.B.S.E, Delhi</tspan><tspan class="cls-6"><tspan x="0" y="30">2009</tspan></tspan></text>
-    <text id="User_Experience_Designer_Internship_at_Nutanix_Bangaluru_May_17_Jul_17" data-name="User Experience Designer | Internship at 
-Nutanix, Bangaluru
-May ’17 –Jul ‘17" class="cls-5" transform="translate(36 590)"><tspan x="0" y="0">User Experience Designer | Internship at </tspan><tspan x="0" y="17">Nutanix, Bangaluru</tspan><tspan class="cls-6"><tspan x="0" y="34">May ’17 –Jul ‘17</tspan></tspan></text>
-    <text id="Android_Developer_Paper_ite_May_16_Aug_16" data-name="Android Developer | Paperﬂite
-May ’16 –Aug ‘16" class="cls-5" transform="translate(36 665)"><tspan x="0" y="0">Android Developer | Paper</tspan><tspan class="cls-7" y="0">ﬂ</tspan><tspan y="0">ite</tspan><tspan class="cls-6"><tspan x="0" y="17">May ’16 –Aug ‘16</tspan></tspan></text>
-    <text id="Designer_Developer_Cognizant_Bangaluru_May_14_-_May_16" data-name="Designer Developer | Cognizant, Bangaluru
-May ’14 - May ‘16" class="cls-5" transform="translate(36.5 721)"><tspan x="0" y="0">Designer Developer | Cognizant, Bangaluru</tspan><tspan class="cls-6"><tspan x="0" y="17">May ’14 - May ‘16</tspan></tspan></text>
-    <text id="Indie_App_Developer_Designer_Avion_Labs_Google_play_store_Dec_14_-_Present_" data-name="Indie App Developer Designer | Avion Labs, Google play store
-Dec’ 14 - Present " class="cls-5" transform="translate(38 777)"><tspan x="0" y="0">Indie App Developer Designer | Avion Labs, </tspan><tspan x="0" y="17">Google play store</tspan><tspan class="cls-6"><tspan x="0" y="34">Dec’ 14 - Present </tspan></tspan></text>
-    <text id="Senior_User_Experience_Designer_Publicis.Sapient_Gurgaon_Jul_18_Present" data-name="Senior User Experience Designer | 
-Publicis.Sapient, Gurgaon
-Jul ’18 –Present" class="cls-5" transform="translate(36 517)"><tspan x="0" y="0">Senior User Experience Designer | </tspan><tspan x="0" y="17">Publicis.Sapient, Gurgaon</tspan><tspan class="cls-6"><tspan x="0" y="34">Jul ’18 –Present</tspan></tspan></text>
-    <text id="Design_:_Sketching_Brainstorming_Concept_generation_Wireframing_Information_Architecture_Scenario_Building_Low_and_high_delity_prototyping._Software_:_Sketch_Figma_XD_Axure_RP_Illustrator_Photoshop_After_Effects_Programming_:_Java_HTML_CS" data-name="Design :  Sketching, Brainstorming, Concept generation, Wireframing, Information Architecture, Scenario Building, Low and high ﬁdelity prototyping.
-
-Software : Sketch, Figma, XD, Axure RP, Illustrator, Photoshop, After Effects
-
-Programming : Java, HTML, CS" class="cls-3" transform="translate(36 890)"><tspan x="0" y="13" xml:space="preserve">Design :  Sketching, Brainstorming, Concept </tspan><tspan x="0" y="30">generation, Wireframing, Information </tspan><tspan x="0" y="47">Architecture, Scenario Building, Low and high </tspan><tspan class="cls-8" x="0" y="66">ﬁ</tspan><tspan y="66">delity prototyping.</tspan><tspan x="0" y="83"></tspan><tspan x="0" y="100">Software : Sketch, Figma, XD, Axure RP, </tspan><tspan x="0" y="117">Illustrator, Photoshop, After Effects</tspan><tspan x="0" y="134"></tspan><tspan x="0" y="151">Programming : Java, HTML, CSS, JavaScript, </tspan><tspan x="0" y="168">Basic of Spring, Hibernate, C, C++ </tspan><tspan x="0" y="185">Project Skills : Agile Methodology</tspan><tspan x="0" y="202"></tspan></text>
+" class="cls-5" transform="translate(36 424)"><tspan x="0" y="13">Class XII, Science C.B.S.E, Delhi</tspan><tspan class="cls-6"><tspan x="0" y="30">2009</tspan></tspan></text>
+    <text id="Senior_UX_Designer_Publicis.Sapient_Jul_2018_-_Present_Worked_on_Web_Accessibility_and_self-initiated_project_for_New-joinee_Onboarding" data-name="Senior UX Designer | Publicis.Sapient
+Jul 2018 - Present
+Worked on Web Accessibility and self-initiated project for New-joinee Onboarding" class="cls-7" transform="translate(36 568)"><tspan x="0" y="13">Senior UX Designer | Publicis.Sapient</tspan><tspan x="0" y="30">Jul 2018 - Present</tspan><tspan class="cls-8"><tspan x="0" y="46">Worked on Web Accessibility and self-initiated project </tspan><tspan x="0" y="61">for New-joinee Onboarding</tspan></tspan></text>
+    <text id="UX_Design_Intern_Nutanix_May_2017-_Jul_2017_Redesigned_the_web_console_of_health_monitoring_tool_for_datacentre" data-name="UX Design Intern | Nutanix
+May 2017- Jul 2017
+Redesigned the web console of health monitoring tool for datacentre" class="cls-7" transform="translate(36 664)"><tspan x="0" y="13">UX Design Intern | Nutanix</tspan><tspan x="0" y="30">May 2017- Jul 2017</tspan><tspan class="cls-8"><tspan x="0" y="46">Redesigned the web console of health monitoring tool </tspan></tspan></text>
+    <text id="Android_Developer_Paper_ite_May_2017-_Jul_2017_Developed_the_first_version_of_paper_ite_android_application" data-name="Android Developer | Paperﬂite
+May 2017- Jul 2017
+Developed the first version of paperﬂite android application" class="cls-7" transform="translate(36.5 747)"><tspan x="0" y="15">Android Developer | Paper</tspan><tspan class="cls-9" y="15">ﬂ</tspan><tspan y="15">ite</tspan><tspan x="0" y="32">May 2017- Jul 2017</tspan><tspan class="cls-8"><tspan x="0" y="49">Developed the first version of paper</tspan><tspan class="cls-10" y="49">ﬂ</tspan><tspan y="49">ite android </tspan><tspan x="0" y="64">application</tspan></tspan></text>
+    <text id="Designer_Developer_Cognizant_May_2014-_May_2016_Designed_and_developed_a_complete_enterprise_app_for_CSR_programme_of_Cognizant" data-name="Designer &amp; Developer | Cognizant
+May 2014- May 2016
+Designed and developed a complete enterprise app for CSR programme of Cognizant" class="cls-7" transform="translate(36 846)"><tspan x="0" y="13">Designer &amp; Developer | Cognizant</tspan><tspan x="0" y="30">May 2014- May 2016</tspan><tspan class="cls-8"><tspan x="0" y="46">Designed and developed a complete enterprise app for </tspan><tspan x="0" y="61">CSR programme of Cognizant</tspan></tspan></text>
+    <text id="Indie_App_Developer_Avion_Labs_Google_Play_Store_2013-Present_Independently_built_a_range_of_clock_widgets_apps_and_an_expense_manager_published_on_google_play_store" data-name="Indie App Developer | Avion Labs, Google Play Store
+2013-Present
+Independently built a range of clock widgets apps and an expense manager published on google play store" class="cls-7" transform="translate(36 940)"><tspan x="0" y="13">Indie App Developer | Avion Labs, Google Play </tspan><tspan x="0" y="30">Store</tspan><tspan x="0" y="47">2013-Present</tspan><tspan class="cls-8"><tspan x="0" y="63">Independently built a range of clock widgets apps and </tspan><tspan x="0" y="78">an expense manager published on google play store</tspan></tspan></text>
+    <text id="Animated_Short_Movie_Aug_2017-_April_2018_Project_Guide_:_Sheetal_Gokhale_Worked_on_an_2D_animated_short_movie_as_Masters_thesis_project." data-name="Animated Short Movie
+Aug 2017- April 2018
+Project Guide : Sheetal Gokhale
+Worked on an 2D animated short movie as Masters thesis project." class="cls-7" transform="translate(36 1125)"><tspan x="0" y="13">Animated Short Movie</tspan><tspan x="0" y="30">Aug 2017- April 2018</tspan><tspan class="cls-8"><tspan x="0" y="46">Project Guide : Sheetal Gokhale</tspan><tspan x="0" y="61">Worked on an 2D animated short movie as Masters </tspan><tspan x="0" y="76">thesis project.</tspan></tspan></text>
+    <text id="Cluster_Health_Monitoring_Redesign_Nutanix_Internship_Project_May_2017-_Jul_2017_Project_Manager_:_Sandeep_Karmakar_As_internship_project_I_redesigned_a_component_of_PRISM_web_console_that_is_used_to_monitor_and_troubleshoot_cluster_health._" data-name="Cluster Health Monitoring Redesign
+Nutanix Internship Project
+May 2017- Jul 2017
+Project Manager : Sandeep Karmakar
+As internship project I redesigned a component of PRISM web console that is used to monitor and troubleshoot cluster health.
+" class="cls-7" transform="translate(36 1247)"><tspan x="0" y="13">Cluster Health Monitoring Redesign</tspan><tspan x="0" y="30">Nutanix Internship Project</tspan><tspan x="0" y="47">May 2017- Jul 2017</tspan><tspan class="cls-8"><tspan x="0" y="63">Project Manager : Sandeep Karmakar</tspan><tspan x="0" y="78">As internship project I redesigned a component of </tspan><tspan x="0" y="93">PRISM web console that is used to monitor and </tspan><tspan x="0" y="108">troubleshoot cluster health.</tspan></tspan></text>
+    <text id="Moments_Semester_Thesis_Project_Feb_2017-_Apr_2017_Project_Guide_:_Sharmishtha_Banerjee_An_information_management_system_design_for_design_department_IIT_Guwahati" data-name="Moments
+Semester Thesis Project
+Feb 2017- Apr 2017
+Project Guide : Sharmishtha Banerjee
+An information management system design for design department, IIT Guwahati" class="cls-7" transform="translate(36 1402)"><tspan x="0" y="13">Moments</tspan><tspan x="0" y="30">Semester Thesis Project</tspan><tspan x="0" y="47">Feb 2017- Apr 2017</tspan><tspan class="cls-8"><tspan x="0" y="63">Project Guide : Sharmishtha Banerjee</tspan><tspan x="0" y="78">An information management system design for design </tspan><tspan x="0" y="93">department, IIT Guwahati</tspan></tspan></text>
+    <text id="Outreach_Cognizant_CSR_Project_May_2014-_May_2016_An_app_for_handling_CSR_events_of_Cognizant._Designed_the_complete_app_as_well_as_coded_the_android_version." data-name="Outreach
+Cognizant CSR Project
+May 2014- May 2016
+An app for handling CSR events of Cognizant. Designed the complete app as well as coded the android version." class="cls-7" transform="translate(36 1541)"><tspan x="0" y="13">Outreach</tspan><tspan x="0" y="30">Cognizant CSR Project</tspan><tspan x="0" y="47">May 2014- May 2016</tspan><tspan class="cls-8"><tspan x="0" y="63">An app for handling CSR events of Cognizant. Designed </tspan><tspan x="0" y="78">the complete app as well as coded the android version.</tspan></tspan></text>
+    <text id="Daybook_Avion_Labs_Google_Play_Store_JUL_2016-_Ongoing_Designed_and_developed_an_expense_manager_app_with_focus_on_simplicity." data-name="Daybook
+Avion Labs, Google Play Store
+JUL 2016- Ongoing
+Designed and developed an expense manager app with focus on simplicity." class="cls-7" transform="translate(36 1665)"><tspan x="0" y="13">Daybook</tspan><tspan x="0" y="30">Avion Labs, Google Play Store</tspan><tspan x="0" y="47">JUL 2016- Ongoing</tspan><tspan class="cls-8"><tspan x="0" y="63">Designed and developed an expense manager app with </tspan><tspan x="0" y="79">focus on simplicity</tspan><tspan class="cls-11" y="79">.</tspan></tspan></text>
+    <text id="UCCW_clock_widget_skins_Aviotron_Labs_Google_Play_Store_Dec_2013-_Dec_2014_Built_a_range_of_clock_widget_skins_for_UCCW_app." data-name="UCCW clock widget skins
+Aviotron Labs, Google Play Store
+Dec 2013- Dec 2014
+Built a range of clock widget skins for UCCW app." class="cls-7" transform="translate(36 1791)"><tspan x="0" y="13">UCCW clock widget skins</tspan><tspan x="0" y="30">Aviotron Labs, Google Play Store</tspan><tspan x="0" y="47">Dec 2013- Dec 2014</tspan><tspan class="cls-8"><tspan x="0" y="63">Built a range of clock widget skins for UCCW app.</tspan></tspan></text>
   </g>
 </svg>
