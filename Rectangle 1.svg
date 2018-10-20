@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 352 448">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#radial-gradient);
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.687" r="0.774" gradientTransform="translate(-1.439 1.187) rotate(-90) scale(1 2.821)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fd9595"/>
+      <stop offset="1" stop-color="#fb6464"/>
+    </radialGradient>
+  </defs>
+  <rect id="Rectangle_1" data-name="Rectangle 1" class="cls-1" width="352" height="448"/>
+</svg>
